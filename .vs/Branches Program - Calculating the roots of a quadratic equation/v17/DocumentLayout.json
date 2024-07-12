@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leizi\\source\\repos\\Branches Program - Calculating the roots of a quadratic equation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76C6DE-EB42-40E0-9F80-5BFBBCD97106}|Branches Program - Calculating the roots of a quadratic equation.vcxproj|C:\\Users\\leizi\\source\\repos\\Branches Program - Calculating the roots of a quadratic equation\\Branches Program - Calculating the roots of a quadratic equation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE76C6DE-EB42-40E0-9F80-5BFBBCD97106}|Branches Program - Calculating the roots of a quadratic equation.vcxproj|solutionrelative:Branches Program - Calculating the roots of a quadratic equation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Branches Program - Calculating the roots of a quadratic equation.cpp",
+              "DocumentMoniker": "C:\\Users\\leizi\\source\\repos\\Branches Program - Calculating the roots of a quadratic equation\\Branches Program - Calculating the roots of a quadratic equation.cpp",
+              "RelativeDocumentMoniker": "Branches Program - Calculating the roots of a quadratic equation.cpp",
+              "ToolTip": "C:\\Users\\leizi\\source\\repos\\Branches Program - Calculating the roots of a quadratic equation\\Branches Program - Calculating the roots of a quadratic equation.cpp",
+              "RelativeToolTip": "Branches Program - Calculating the roots of a quadratic equation.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T19:03:02.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
